@@ -14,5 +14,11 @@ A powerful, 24/7 Multimodal Discord Bot that handles Coding, Art, and Music—al
 3. Create a `.env` file and add your `DISCORD_TOKEN`.
 4. Run `python bot.py`.
 
+5. # 🕸️ Code Weaver AI - Deployment
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+
 ## 🚀 Deployment
 Designed to be hosted on **Railway** or **Render** for 24/7 uptime.
