@@ -1,0 +1,4 @@
+discord.py[voice]
+g4f
+hercai
+python-dotenv
